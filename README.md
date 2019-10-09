@@ -2,4 +2,4 @@
 
 This is a really awesome website.
 
-Updated remotely.
+Updated remotely, then locally.
