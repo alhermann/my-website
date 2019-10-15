@@ -2,7 +2,7 @@
 logs
 *.log
 
-# MacOS temp files
+# Mac OS temp files
 .DS_Store
 
 npm-debug.log*
